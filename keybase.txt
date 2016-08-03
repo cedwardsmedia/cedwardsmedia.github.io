@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/cedwardsmedia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cedwardsmedia.github.io
+  * I am cedwardsmedia (https://keybase.io/cedwardsmedia) on keybase.
+  * I have a public key ASBIRigb03Hjdlk4IGDmO4LOqTvvH2Qgp6Xco-F6ZyxHjwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101740ae28c574ca24de3f7b5c9d79b7812051f5c286e5b48024cb99ea1facf48b80a",
+            "host": "keybase.io",
+            "kid": "01204846281bd371e37659382060e63b82cea93bef1f6420a7a5dca3e17a672c478f0a",
+            "uid": "dc8dc5703fa1fbb241acc20293d32300",
+            "username": "cedwardsmedia"
+        },
+        "service": {
+            "hostname": "cedwardsmedia.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1470266656,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1470266631,
+        "hash": "ce9c96932b13426ca2dbeddc4325d4bff1ab7a07bf39e06cce71d7249fc7fbed53b1a0d260cd37670a2e1032e7f42400f0353c5251bced09665ab2614d5d0242",
+        "seqno": 557628
+    },
+    "prev": "ab2014625c145dc9179e888a66681442a041a99cf241c9f0d312318709f11854",
+    "seqno": 156,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSEYoG9Nx43ZZOCBg5juCzqk77x9kIKel3KPhemcsR48Kp3BheWxvYWTFAwZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNzQwYWUyOGM1NzRjYTI0ZGUzZjdiNWM5ZDc5Yjc4MTIwNTFmNWMyODZlNWI0ODAyNGNiOTllYTFmYWNmNDhiODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDg0NjI4MWJkMzcxZTM3NjU5MzgyMDYwZTYzYjgyY2VhOTNiZWYxZjY0MjBhN2E1ZGNhM2UxN2E2NzJjNDc4ZjBhIiwidWlkIjoiZGM4ZGM1NzAzZmExZmJiMjQxYWNjMjAyOTNkMzIzMDAiLCJ1c2VybmFtZSI6ImNlZHdhcmRzbWVkaWEifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNlZHdhcmRzbWVkaWEuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzAyNjY2NTYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MDI2NjYzMSwiaGFzaCI6ImNlOWM5NjkzMmIxMzQyNmNhMmRiZWRkYzQzMjVkNGJmZjFhYjdhMDdiZjM5ZTA2Y2NlNzFkNzI0OWZjN2ZiZWQ1M2IxYTBkMjYwY2QzNzY3MGEyZTEwMzJlN2Y0MjQwMGYwMzUzYzUyNTFiY2VkMDk2NjVhYjI2MTRkNWQwMjQyIiwic2Vxbm8iOjU1NzYyOH0sInByZXYiOiJhYjIwMTQ2MjVjMTQ1ZGM5MTc5ZTg4OGE2NjY4MTQ0MmEwNDFhOTljZjI0MWM5ZjBkMzEyMzE4NzA5ZjExODU0Iiwic2Vxbm8iOjE1NiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEA2mf6LlKDbf9TuKIGgcYZ4o0j6boqomsREyOJ0O1Qq06VffItJuWRpcP2nfxffbdCiodfsq624C9fHgFadN8sFqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgsmMyAeL0t7NuXbqJNzP7h1aLmGamUMSlMDAipW0i6YmjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cedwardsmedia
+
+==================================================================
