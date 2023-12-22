@@ -1,0 +1,413 @@
+==================================================================
+https://keybase.io/cedwardsmedia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cedwardsmedia.com
+  * I am cedwardsmedia (https://keybase.io/cedwardsmedia) on keybase.
+  * I have a public key ASCdSrzKxyJ5UCeEdatxmzMyB_JK5sFo5jWBiLzy4jzqxgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": 
+"0101740ae28c574ca24de3f7b5c9d79b7812051f5c286e5b48024cb99ea1facf48b80a",
+      "host": "keybase.io",
+      "kid": "01209d4abccac7227950278475ab719b333207f24ae6c168e6358188bcf2e23ceac60a",
+      "uid": "dc8dc5703fa1fbb241acc20293d32300",
+      "username": "cedwardsmedia"
+    },
+    "merkle_root": {
+      "ctime": 1534444272,
+      "hash": 
+"170a9e51d0e3d4b0ee1b00d5545e5248d55a35b1a558abe630d1c5fa27e43e4ee71c1090be8873b4e4c9aa0199e94717ac64cf103b18dd314fd3a1baae78fb5d",
+      "hash_meta": "9dbaee771bcf5bf561255591b2338c2ef22077b760ae35e2e0caa1421846bd35",
+      "seqno": 3466257
+    },
+    "service": {
+      "entropy": "DIgZbNXfYsT9ytFQllSlLrA4",
+      "hostname": "cedwardsmedia.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1534444275,
+  "expire_in": 504576000,
+  "prev": "5025ce00c4c07c5e0b3150e1b1314969fea2596ad96debbdd1210100ebe2d6a9",
+  "seqno": 196,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnUq8yscieVAnhHWrcZszMgfySubBaOY1gYi88uI86sYKp3BheWxvYWTES5cCzMTEIFAlzgDEwHxeCzFQ4bExSWn+ollq2W3rvdEhAQDr4tapxCAwS70qh2ctaHKvesygB6ZVQFJa9NQrUhWP4VaYIfllZAIBwqNzaWfEQEIitM8GwqGK6MPeizK15iVXckpMAhN3zFgTK/FX2rmkhY0xplJ//C+LS9Lic0WkSZVgC+m+GFTLfq1m0ZcmTwaoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBbfpDzEME5cQi0JDJMI+LuO04WdFEue9aY24+I4WBBMqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cedwardsmedia
+
+==================================================================
+
+==================================================================
+https://keybase.io/cedwardsmedia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cedwardsmedia.link
+  * I am cedwardsmedia (https://keybase.io/cedwardsmedia) on keybase.
+  * I have a public key ASDuJq5aOa5y0LWICU8al6YL7c4M3qjXv2pn1jXPgBfnhgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": 
+"0101740ae28c574ca24de3f7b5c9d79b7812051f5c286e5b48024cb99ea1facf48b80a",
+      "host": "keybase.io",
+      "kid": "0120ee26ae5a39ae72d0b588094f1a97a60bedce0cdea8d7bf6a67d635cf8017e7860a",
+      "uid": "dc8dc5703fa1fbb241acc20293d32300",
+      "username": "cedwardsmedia"
+    },
+    "merkle_root": {
+      "ctime": 1671755682,
+      "hash": 
+"38a953ee369ae1159fc73173dfe6acc6f9a47f04ae3b6ef6a7dce04cc87daa46c70b79d6c4f0580cd6df1327258f04e14786160270609548a8e3bb8c0081ede3",
+      "hash_meta": "ab3fd531ceaf470fb258d3213ee1b536c6e17343d74016c2bbe73e59ad98b601",
+      "seqno": 23756504
+    },
+    "service": {
+      "entropy": "xWhICjNYZUu49/yMuko0cr7z",
+      "hostname": "cedwardsmedia.link",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.3"
+  },
+  "ctime": 1671755731,
+  "expire_in": 504576000,
+  "prev": "1c82a6998084210791145d973e1c73eb733f5b47915a71be09684fdd81e2c5f2",
+  "seqno": 256,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7iauWjmuctC1iAlPGpemC+3ODN6o179qZ9Y1z4AX54YKp3BheWxvYWTETJcCzQEAxCAcgqaZgIQhB5EUXZc+HHPrcz9bR5Facb4JaE/dgeLF8sQgxbf/Wc72CgUSMXZicCLqXlALQc9I/fuzoF8DRUE4E1UCAcKjc2lnxEA4HGl5QGYL0Lzmo/sF5w9/5u1/3D4bB1MgYpudnbxBGTR00t8sAGQrlrT2WH3MtT1P+1KhQ8lwQhwkujNn780AqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgA5j9ye6ZX0ZlC9KoRc9F9JL2jUEotGqGsttUYysZ43yjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cedwardsmedia
+
+==================================================================
+
+
+==================================================================
+https://keybase.io/cedwardsmedia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cedwardsmedia.cloud
+  * I am cedwardsmedia (https://keybase.io/cedwardsmedia) on keybase.
+  * I have a public key ASDuJq5aOa5y0LWICU8al6YL7c4M3qjXv2pn1jXPgBfnhgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": 
+"0101740ae28c574ca24de3f7b5c9d79b7812051f5c286e5b48024cb99ea1facf48b80a",
+      "host": "keybase.io",
+      "kid": "0120ee26ae5a39ae72d0b588094f1a97a60bedce0cdea8d7bf6a67d635cf8017e7860a",
+      "uid": "dc8dc5703fa1fbb241acc20293d32300",
+      "username": "cedwardsmedia"
+    },
+    "merkle_root": {
+      "ctime": 1672175573,
+      "hash": 
+"9930c9255f53e6b9ae78b3298f66c60fc8bdc72589e358c77e0519d8cc2a102b6b66f90c2541295ff4136e646912178a4e9f18beb5bc7cce1194b7608d1b672b",
+      "hash_meta": "e1fd59c72ac3c1656e8ba0994847e80abc15e2a5860de5a06287df49264be2b8",
+      "seqno": 23775369
+    },
+    "service": {
+      "entropy": "HEtO4RKCylzZthJuZD+qQg9y",
+      "hostname": "cedwardsmedia.cloud",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.3"
+  },
+  "ctime": 1672175604,
+  "expire_in": 504576000,
+  "prev": "346c0c49b46b95750101261247cc32fcebe97b8c24b1dbe627f1d62a6d60c6ca",
+  "seqno": 261,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7iauWjmuctC1iAlPGpemC+3ODN6o179qZ9Y1z4AX54YKp3BheWxvYWTETJcCzQEFxCA0bAxJtGuVdQEBJhJHzDL86+l7jCSx2+Yn8dYqbWDGysQgC9UPPHCHq2kNaHJ10aQ9Li+kA3So9UWM+JNl/cQJZKoCAcKjc2lnxECO0/mf4LbvF/Npzbbv/8mBKZRUq1TLEHCdeALIgW19Nw54wWkTIULRyD3xJ80Twt0AMkBU2m5CoQS52WPikpYHqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgF681ae6ALZykYy4jqYBypKSwoEkXc5pHEP7QcT62l7KjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cedwardsmedia
+
+==================================================================
+
+==================================================================
+https://keybase.io/cedwardsmedia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cedwardsmedia.social
+  * I am cedwardsmedia (https://keybase.io/cedwardsmedia) on keybase.
+  * I have a public key ASDuJq5aOa5y0LWICU8al6YL7c4M3qjXv2pn1jXPgBfnhgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": 
+"0101740ae28c574ca24de3f7b5c9d79b7812051f5c286e5b48024cb99ea1facf48b80a",
+      "host": "keybase.io",
+      "kid": "0120ee26ae5a39ae72d0b588094f1a97a60bedce0cdea8d7bf6a67d635cf8017e7860a",
+      "uid": "dc8dc5703fa1fbb241acc20293d32300",
+      "username": "cedwardsmedia"
+    },
+    "merkle_root": {
+      "ctime": 1673895816,
+      "hash": 
+"bba343d7adf03ba8f85b97b93850b7851382e1e34943865fdf009acbad27cd91884b74ed96db332da2c616ee9f5664205d5d1fab1376a7f8451cc5a65a03900a",
+      "hash_meta": "ad10b1e6461a51f51a5152eee93572ee267e7f9d2aae38bbdc9213ba13e68640",
+      "seqno": 23879096
+    },
+    "service": {
+      "entropy": "s14Rd339qZ8/oJzy2j9WXXuj",
+      "hostname": "cedwardsmedia.social",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.3"
+  },
+  "ctime": 1673895845,
+  "expire_in": 504576000,
+  "prev": "4a9b648e431bef42a19ab70e4dcbcef920000bc1944b4440e6b2a42f76f7ce25",
+  "seqno": 263,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7iauWjmuctC1iAlPGpemC+3ODN6o179qZ9Y1z4AX54YKp3BheWxvYWTETJcCzQEHxCBKm2SOQxvvQqGatw5Ny875IAALwZRLREDmsqQvdvfOJcQgAb3ToYb2LMAQAWmWJ2haHlKZ9uDlU3Ys6fEqZZ45NdMCAcKjc2lnxECD8QG5rFDCJ+YHKe4OYajM+wPhrMzFyQ5fhtZxNrZ6M8OCBqKeJdk/E0s1KBiS/h4nh8BduPCDoc0xTKvTYXMAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgr3B0RjBYygtF8PbitmNlndCwx+DWsGPiI95fu9Cd5jKjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cedwardsmedia
+
+==================================================================
+
+==================================================================
+https://keybase.io/cedwardsmedia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://carbon-api.tk
+  * I am cedwardsmedia (https://keybase.io/cedwardsmedia) on keybase.
+  * I have a public key ASDuJq5aOa5y0LWICU8al6YL7c4M3qjXv2pn1jXPgBfnhgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": 
+"0101740ae28c574ca24de3f7b5c9d79b7812051f5c286e5b48024cb99ea1facf48b80a",
+      "host": "keybase.io",
+      "kid": "0120ee26ae5a39ae72d0b588094f1a97a60bedce0cdea8d7bf6a67d635cf8017e7860a",
+      "uid": "dc8dc5703fa1fbb241acc20293d32300",
+      "username": "cedwardsmedia"
+    },
+    "merkle_root": {
+      "ctime": 1671754776,
+      "hash": 
+"39ef00e2e07b785640cdd8c6f3ac773ae6a889c4a09b35bae08e893c251cdf0fc4a13e23b58fa8155fd8a1f2fdb78716301a003ba75fb2d4db5b71c741953321",
+      "hash_meta": "5f9cfac3ba1e6a0520faabb1aa505a75eb6ab5dea29e1b3057c6720cefccce83",
+      "seqno": 23756473
+    },
+    "service": {
+      "entropy": "ECc3VZAhVoTACeh7+9J5Dmts",
+      "hostname": "carbon-api.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.3"
+  },
+  "ctime": 1671754859,
+  "expire_in": 504576000,
+  "prev": "234522eccca1187657f4d46bb05ad8dd086744912c20ccf1111a1d8757d9d26a",
+  "seqno": 255,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7iauWjmuctC1iAlPGpemC+3ODN6o179qZ9Y1z4AX54YKp3BheWxvYWTES5cCzP/EICNFIuzMoRh2V/TUa7Ba2N0IZ0SRLCDM8REaHYdX2dJqxCCvvuVgsx1HFklpsI8a14EtOI1PANYBqY40rkl6FqtlpgIBwqNzaWfEQGzixdxvnkM47tYFvHv/E5R1r5kcYV+eDX8zWWzEV1MNix6nJBASaINGDdS4BrVvJJ0KDt7t68IydJBZQIBK7w6oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAVySXbWmfz53JzH1orexA7Xy8UwMTZK0uSr2CgFGlaGqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cedwardsmedia
+
+==================================================================
+
+==================================================================
+https://keybase.io/cedwardsmedia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://isup.gq
+  * I am cedwardsmedia (https://keybase.io/cedwardsmedia) on keybase.
+  * I have a public key ASCdSrzKxyJ5UCeEdatxmzMyB_JK5sFo5jWBiLzy4jzqxgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": 
+"0101740ae28c574ca24de3f7b5c9d79b7812051f5c286e5b48024cb99ea1facf48b80a",
+      "host": "keybase.io",
+      "kid": "01209d4abccac7227950278475ab719b333207f24ae6c168e6358188bcf2e23ceac60a",
+      "uid": "dc8dc5703fa1fbb241acc20293d32300",
+      "username": "cedwardsmedia"
+    },
+    "merkle_root": {
+      "ctime": 1534420217,
+      "hash": 
+"9369c2f2193c5f23c7fd1a9beec2bb23752dc19368f028962762897031c1767d3528accc11617f655aa08edd3d874de1ae984a70491d0af438dd34d67c67a4cd",
+      "hash_meta": "2b34bc61c02b3d802622901299a2427d597d0a49d971e9184343779f5046d1d8",
+      "seqno": 3463964
+    },
+    "service": {
+      "entropy": "yPzR4ixlwilITQ6xnbCWirdk",
+      "hostname": "isup.gq",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1534420284,
+  "expire_in": 504576000,
+  "prev": "957cffab7c64176cbcd4b306ff0edb26a66339b5e5380a267de9621751140227",
+  "seqno": 190,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnUq8yscieVAnhHWrcZszMgfySubBaOY1gYi88uI86sYKp3BheWxvYWTES5cCzL7EIJV8/6t8ZBdsvNSzBv8O2yamYzm15TgKJn3pYhdRFAInxCBbLoFob+vl42nVal56gMZNLBTwtWH+b9Jy+27U8DyXAgIBwqNzaWfEQIvPOR90pHQc6fqLlMRAgjaF3+NQ9sFDY1hkhouakBCxOxIf/UgpTVQ9E6cLv5wIx1rxOrOAH3GhKL3zIB1NOQqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAiaPAEHgaHbkXjk5Sn3D729Ib+JzoQD2QV/W+ifjgMYaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cedwardsmedia
+
+==================================================================
+
+
+==================================================================
+https://keybase.io/cedwardsmedia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cedwardsmedia.github.io
+  * I am cedwardsmedia (https://keybase.io/cedwardsmedia) on keybase.
+  * I have a public key ASBIRigb03Hjdlk4IGDmO4LOqTvvH2Qgp6Xco-F6ZyxHjwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": 
+"0101740ae28c574ca24de3f7b5c9d79b7812051f5c286e5b48024cb99ea1facf48b80a",
+            "host": "keybase.io",
+            "kid": 
+"01204846281bd371e37659382060e63b82cea93bef1f6420a7a5dca3e17a672c478f0a",
+            "uid": "dc8dc5703fa1fbb241acc20293d32300",
+            "username": "cedwardsmedia"
+        },
+        "service": {
+            "hostname": "cedwardsmedia.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1470266656,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1470266631,
+        "hash": 
+"ce9c96932b13426ca2dbeddc4325d4bff1ab7a07bf39e06cce71d7249fc7fbed53b1a0d260cd37670a2e1032e7f42400f0353c5251bced09665ab2614d5d0242",
+        "seqno": 557628
+    },
+    "prev": "ab2014625c145dc9179e888a66681442a041a99cf241c9f0d312318709f11854",
+    "seqno": 156,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSEYoG9Nx43ZZOCBg5juCzqk77x9kIKel3KPhemcsR48Kp3BheWxvYWTFAwZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNzQwYWUyOGM1NzRjYTI0ZGUzZjdiNWM5ZDc5Yjc4MTIwNTFmNWMyODZlNWI0ODAyNGNiOTllYTFmYWNmNDhiODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDg0NjI4MWJkMzcxZTM3NjU5MzgyMDYwZTYzYjgyY2VhOTNiZWYxZjY0MjBhN2E1ZGNhM2UxN2E2NzJjNDc4ZjBhIiwidWlkIjoiZGM4ZGM1NzAzZmExZmJiMjQxYWNjMjAyOTNkMzIzMDAiLCJ1c2VybmFtZSI6ImNlZHdhcmRzbWVkaWEifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNlZHdhcmRzbWVkaWEuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzAyNjY2NTYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MDI2NjYzMSwiaGFzaCI6ImNlOWM5NjkzMmIxMzQyNmNhMmRiZWRkYzQzMjVkNGJmZjFhYjdhMDdiZjM5ZTA2Y2NlNzFkNzI0OWZjN2ZiZWQ1M2IxYTBkMjYwY2QzNzY3MGEyZTEwMzJlN2Y0MjQwMGYwMzUzYzUyNTFiY2VkMDk2NjVhYjI2MTRkNWQwMjQyIiwic2Vxbm8iOjU1NzYyOH0sInByZXYiOiJhYjIwMTQ2MjVjMTQ1ZGM5MTc5ZTg4OGE2NjY4MTQ0MmEwNDFhOTljZjI0MWM5ZjBkMzEyMzE4NzA5ZjExODU0Iiwic2Vxbm8iOjE1NiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEA2mf6LlKDbf9TuKIGgcYZ4o0j6boqomsREyOJ0O1Qq06VffItJuWRpcP2nfxffbdCiodfsq624C9fHgFadN8sFqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgsmMyAeL0t7NuXbqJNzP7h1aLmGamUMSlMDAipW0i6YmjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cedwardsmedia
+
+==================================================================
